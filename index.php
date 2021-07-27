@@ -1,8 +1,3 @@
-<?php
-
-?>
-
-
 <ol class="breadcrumb">
     <li><a href="index.php">Início</a></li>
     <li class="active">Portal do Servidor</li>
